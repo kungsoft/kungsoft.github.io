@@ -17,7 +17,7 @@
 # 近况 想转java开发工程师
 由于工作原因，接触了很多后端开发技术，并产生了浓厚的兴趣，于是最近开始学习java,并以github,百度，csdn为基础，开发了自己的第一个java 前后端分离 web系统。   
 
-从socket servlet 到 springboot mybatis plus。。。不断感受着 新技术带来个红利 与未来技术发展的方向。同时也将自己过往的其它语言 优秀的思想融入其中。  
+从socket servlet 到 springboot mybatis plus。。。不断感受着 新技术带来个便捷红利 。同时也将自己过往的其它语言 优秀的思想融入其中。朦胧中似乎看到了未来技术发展的大致方向。
 
 为了快速搭建，便于后期持续维护，本系统采用 centos7+ docker +nginx + git + jenkins 的方式 实现自动化布部署。  
 

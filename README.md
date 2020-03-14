@@ -14,7 +14,11 @@
  - 我虽只有 0 年 Java 开发经验，但很擅长 基于 搜索引引擎 的自我突破式开发。
 
 ---
+# 近况 想转java开发工程师
+由于工作原因，接触了很多后端开发技术，并产生了浓厚的兴趣，于是最近开始学习java,并以github,百度，csdn为基础，开发了自己的第一个java web系统。 从无到有，从socket servlet 到 springboot mybatis plus.
+也自己动手搭建 服务器,从而有了 centos7+ docker +nginx + git + jenkins 自动化布部署的ci后端。这个系统暂命名为 [阳江微跑腿h5版](http://www.yjfeng.com/h5) 欢迎点开体验。
 
+---
 # 工作经历
 
 

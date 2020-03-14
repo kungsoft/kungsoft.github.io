@@ -15,7 +15,10 @@
 
 ---
 # 近况 想转java开发工程师
-由于工作原因，接触了很多后端开发技术，并产生了浓厚的兴趣，于是最近开始学习java,并以github,百度，csdn为基础，开发了自己的第一个java 前后端分离 web系统。 从无到有，从socket servlet 到 springboot mybatis plus.自己动手搭建 服务器。从而有了 centos7+ docker +nginx + git + jenkins 自动化布部署的ci后端。这个系统暂命名为 [阳江微跑腿h5版](http://www.yjfeng.com/h5) 欢迎点开体验。
+由于工作原因，接触了很多后端开发技术，并产生了浓厚的兴趣，于是最近开始学习java,并以github,百度，csdn为基础，开发了自己的第一个java 前后端分离 web系统。 
+从socket servlet 到 springboot mybatis plus。。。不断感受着 新技术带来个红利 与未来技术发展的方向。同时也将自己过往的其它语言 优秀的思想融入其中。
+为了快速搭建，便于后期持续维护，本系统采用 centos7+ docker +nginx + git + jenkins 的方式 实现自动化布部署。
+系统暂命名为 [阳江微跑腿h5版](http://www.yjfeng.com/h5) 欢迎点开体验。
 
 ---
 # 工作经历
@@ -38,7 +41,7 @@ python+html做的系统，将长网址压缩为短网址，从中附加广告，
 ## 苏州蜗牛数字科技服份有限公司 （ 2006.06 ~ 2010.12 ）（actionscript程序员）
 
 ### as3虚拟空间项目 
-担任as3/flex 工程序，开发as3特效，小游戏。
+担任as3/flex 程序员，开发as3特效，小游戏。
 
 ---
 # 其他项目

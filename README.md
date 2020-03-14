@@ -58,7 +58,7 @@ python+html做的系统，将长网址压缩为短网址，从中附加广告，
 2020/1-至今 [阳江微跑腿H5版](http://www.yjfeng.com/h5) 、 [阳江微跑腿管理端](http://www.yjfen.com/de)
 
 ### python web
-2020/1-至今 [vgg神经网络语音识别](https://yjv.yjfeng.com)
+2020/1-至今 [基于vgg神经网络的 阳江方言语音识别](https://yjv.yjfeng.com)
 
 ---
 
